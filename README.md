@@ -3,6 +3,8 @@ sebuah applikasi presensi berbasis web
 
 referensi website :
 
+http://demo.absensi.net/
+
 http://presensi.semarangkota.go.id
 
 http://absensi.walisongo.ac.id/absensi/index.php
